@@ -7,7 +7,7 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <meta name="description" content="CovidSurvey is a platform where Kenyans give out their views on   whats affecting their lifestyes. This is my very own first php website.">
+      <meta name="description" content="CovidSurvey is an open platform where Kenyans give out their views on  what's affecting their lifestyes as a community or individually.">
       <meta name="author" content="Romeo Namunde(mkyd-kill), made in Kalax Hotspot - Voi">
       <meta name="docsearch:language" content="en">
       <meta http-equiv="x-dns-prefetch-control" content="on">
