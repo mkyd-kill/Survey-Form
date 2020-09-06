@@ -34,7 +34,7 @@
               </p>
             </header>
             
-            <form id="survey-form" action="survey.php" method="POST" netlify>
+            <form id="survey-form" action="survey.php" method="POST">
               <div class="form-group">
                 <label id="name-label" for="username">Name</label>
                 <input type="text" id="username" name="username" class="form-control" placeholder="Enter your name" required/>
