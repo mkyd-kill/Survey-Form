@@ -17,11 +17,12 @@
 
     // Database connections
     session_start();
-    $host = "localhost";
-    $user = "root";
-    $password = "";
-    $db_name = "survey_data";
+    $host = "db4free.net";
+    $user = "shakesrome";
+    $password = "Shake421rome";
+    $db_name = "sql_surveycovid";
     $tbl_name = "data";
+    $port = "3306";
 
 
     // Create connections
