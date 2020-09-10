@@ -34,6 +34,10 @@
               </p>
             </header>
             
+<<<<<<< HEAD
+=======
+            <!-- Netlify does not support backend mysql hosting -->
+>>>>>>> b5568ad3647478a7c2fdf1c0cc2f6bac068fff3e
             <form id="survey-form" action="survey.php" method="POST">
               <div class="form-group">
                 <label id="name-label" for="username">Name</label>
